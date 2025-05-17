@@ -4,6 +4,10 @@ A sleek and simple productivity web application designed to help users stay focu
 
 ## 🌟 Features
 
+### 🏠 Home Page
+- Welcoming layout with navigation to core features
+- Science behind feature practices
+
 ### 🕒 Pomodoro Timer
 - **Focus Timer**: 25-minute work sessions
 - **Short Break**: 5-minute break timer
@@ -15,10 +19,6 @@ A sleek and simple productivity web application designed to help users stay focu
 - Add, edit, and delete tasks
 - Mark tasks as complete
 - Progress bar indicating overall completion status
-
-### 🏠 Home Page
-- Welcoming layout with navigation to core features
-- Science behind feature practices
 
 ## 📸 Screenshots
 <img width="941" alt="Screenshot 2025-05-17 114316" src="https://github.com/user-attachments/assets/878f7ad4-7862-46e9-bc47-1bc1dd40bc65" />
